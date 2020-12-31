@@ -120,34 +120,15 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About</title>
       <link>http://www.example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>http://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <description>I am Assistant Professor of Economics at Hood College. Previously I taught at Wake Forest University.
+I have a Ph.D and M.A. in Economics from George Mason University, and a B.A. in Economics from the University of Connecticut. Go Huskies!
+My research broadly explores the political economy of innovation, technological growth, and intellectual property using the tools of new institutional economics, public choice, and market process economics.
+I am a passionate user of R for data analysis, and R Markdown and GitHub for writing reproducible research, version control, and managing my workflow.</description>
     </item>
     
     <item>
@@ -161,21 +142,12 @@ pwd </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <title>Research</title>
+      <link>http://www.example.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>http://www.example.com/research/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
     <item>
@@ -189,12 +161,12 @@ ls -la </description>
     </item>
     
     <item>
-      <title>Sobre Hugo</title>
-      <link>http://www.example.com/about/</link>
+      <title>Teaching</title>
+      <link>http://www.example.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <guid>http://www.example.com/teaching/</guid>
+      <description>Current/Upcoming Courses (Fall 2020)           ECON 306 - Microeconomic Analysis    ECON 324 - International Trade    ECON 452 - History of Economic Thought    ECON 480 - Econometrics    All Courses Taught  Hood College (Fall 2016&amp;mdash;) [Bold links to (most recent) course website]  [courses/ECMG212](ECMG 212 - Statistics for Economics and Business) [courses/ECON205](ECON 205 - Principles of Macroeconomics) [courses/ECON304](ECON 304 - International Political Economy) ECON 306 - Intermediate Microeconomics [courses/ECON316](ECON 316 - Game Theory) ECON 317 - Economics of Development ECON 324 - International Trade ECON 326 - Industrial Organization ECON 410 - Public Economics ECON 452 - History of Economic Thought ECON 480 - Econometrics MGMT 399 - Internship for Business Administration   Wake Forest University (Fall 2015&amp;mdash;Spring 2016)  ECN 150 - Introduction to Economics ECN 272 - Austrian Economics   George Mason University (Summer 2013&amp;mdash;Summer 2015)  ECON 385 - International Economic Policy ECON 403 - Austrian Economics ICES High School Summer Workshops    </description>
     </item>
     
   </channel>

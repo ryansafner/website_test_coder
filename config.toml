@@ -2,6 +2,7 @@ baseURL = "http://www.example.com"
 title = "Ryan Safner"
 
 theme = "hugo-coder"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_cache$"]
 
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -21,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Assistant Professor of Economics"
     avatarURL = "images/summer_2019.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "Enter a text here."
+    footerContent = "Assistant Professor of Economics at Hood College"
 
     dateFormat = "January 2, 2006"
 
@@ -87,9 +88,15 @@ disqusShortname = "yourdiscussshortname"
   author = "authors"
 
 [[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    weight = 1
+    url = "mailto:ryansafner@gmail.com"
+
+[[params.social]]
     name = "Github"
     icon = "fa fa-github"
-    weight = 1
+    weight = 2
     url = "https://github.com/ryansafner/"
 [[params.social]]
     name = "Twitter"
@@ -109,16 +116,21 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "CV"
             weight = 2
-            url = "posts/"
-
+            url = "https://raw.githubusercontent.com/ryansafner/CV/master/CV.pdf"
+            
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "Research"
             weight = 3
-            url = "projects/"
+            url = "research/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Teaching"
+            weight = 4
+            url = "teaching/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
             weight = 5
-            url = "contact/"
+            url = "posts/"

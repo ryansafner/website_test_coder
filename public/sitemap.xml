@@ -197,23 +197,11 @@
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/contact/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.example.com/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>http://www.example.com/research/</loc>
   </url>
   
   <url>
@@ -225,7 +213,7 @@
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>http://www.example.com/teaching/</loc>
   </url>
   
 </urlset>
