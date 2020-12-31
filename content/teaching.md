@@ -15,11 +15,11 @@ title: Teaching
 ## All Courses Taught
 
 * Hood College (Fall 2016---) [**Bold links to (most recent) course website**]
-  - [courses/ECMG212](ECMG 212 - Statistics for Economics and Business)
-  - [courses/ECON205](ECON 205 - Principles of Macroeconomics)
-  - [courses/ECON304](ECON 304 - International Political Economy)
-  - [**ECON 306 - Intermediate Microeconomics**](https://micros20.classes.ryansafner.com)
-  - [courses/ECON316](ECON 316 - Game Theory)
+  - [ECMG 212 - Statistics for Economics and Business](courses/ECMG212)
+  - [ECON 205 - Principles of Macroeconomics](courses/ECON205)
+  - [ECON 304 - International Political Economy](courses/ECON304)
+  - [**ECON 306 - Intermediate Microeconomics**](https://microf20.classes.ryansafner.com)
+  - [ECON 316 - Game Theory](courses/ECON316)
   - [**ECON 317 - Economics of Development**](https://devf19.classes.ryansafner.com)
   - [**ECON 324 - International Trade**](https://tradef20.classes.ryansafner.com)
   - [**ECON 326 - Industrial Organization**](https://ios20.classes.ryansafner.com)
