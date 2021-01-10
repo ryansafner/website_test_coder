@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Ryan Safner's personal website"
     keywords = "economics,Hood College"
     info = "Assistant Professor of Economics"
-    avatarURL = "images/summer_2019.jpg"
+    avatarURL = "images/summer_2019_square.jpg"
     #gravatar = "john.doe@example.com"
     footerContent = "Assistant Professor of Economics at Hood College"
 

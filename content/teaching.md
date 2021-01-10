@@ -5,6 +5,10 @@ title: Teaching
 
 ## Current/Upcoming Courses (Fall 2020)
 
+![](https://ryansafner.com/images/micro_hex.png)
+
+A
+
 |   |     |
 |----|----|
 | <img src="https://ryansafner.com/images/micro_hex.png" alt="" width="75"/> | [ECON 306 - Microeconomic Analysis](http://microF20.classes.ryansafner.com) |
